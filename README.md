@@ -8,7 +8,7 @@ if [ -d "$HOME/bin" ] ; then
 fi
 ```
 
-2. run source ```~/.profile```
+2. run ```source ~/.profile```
 
 
 
