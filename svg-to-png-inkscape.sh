@@ -1,0 +1,1 @@
+inkscape -z -e codeforces-16.png -w 16 -h 16 codeforces.svg
