@@ -1,5 +1,0 @@
-#!/bin/bash
-
-sudo apt-get update
-
-sudo yes | sudo apt-get upgrade
