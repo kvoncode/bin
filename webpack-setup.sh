@@ -14,3 +14,6 @@ npm i eslint-plugin-react eslint --save-dev
 npm i bootstrap jquery popper.js
 
 npm i --save lodash
+
+npm install --save-dev style-loader css-loader
+npm install --save-dev file-loader
