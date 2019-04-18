@@ -1,3 +1,4 @@
 #!/bin/bash    
 npm run build
 cp /home/sakura/free-code-camp/html/tribute-page/dist/main.bundle.js /home/sakura/free-code-camp/html/tribute-page/main.bundle.js
+cp /home/sakura/free-code-camp/html/tribute-page/dist/index.html /home/sakura/free-code-camp/html/tribute-page/index.html
