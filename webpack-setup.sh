@@ -24,3 +24,5 @@ npm install webpack-dev-server --save-dev
 
 npm install --save-dev html-webpack-plugin
 npm install --save-dev clean-webpack-plugin
+
+npm install sass-loader node-sass webpack --save-dev
