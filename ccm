@@ -1,0 +1,5 @@
+#!/bin/bash    
+# copy .jsx | .css from Templates
+cp ~/Templates/react-cmp.jsx ./"$1.jsx"
+cp ~/Templates/react-cmp.css ./"$1.css"
+
