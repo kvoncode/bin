@@ -1,2 +1,3 @@
 #!/bin/bash    
 npm run build
+cp -a ./dist/. ./ #copy content of <dist> folder to current folder
