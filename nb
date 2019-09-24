@@ -1,3 +1,5 @@
 #!/bin/bash    
 npm run build
-cp -a ./dist/. ./ #copy content of <dist> folder to current folder
+cp ./dist/index.html ./index.html #copy content of <dist> folder to current folder
+cp ./dist/fcc.bundle.js ./fcc.bundle.js #copy content of <dist> folder to current folder
+    
