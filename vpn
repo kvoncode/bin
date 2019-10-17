@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nmcli connection up jp-free-02.protonvpn.com.udp
