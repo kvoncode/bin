@@ -14,5 +14,9 @@ fi
 
 - run `source ~/.profile`
 
+## Adding new script
+
+When adding new script you need to allow execute it, either through `chmod` or through file properties
+
 
 
