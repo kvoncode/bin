@@ -1,6 +1,10 @@
-# Automate workflow
+# Installation
 
-1. add code below to ```~/.profile```
+I use `Ubuntu` with `bash`
+
+- copy repo to $HOME/bin
+
+- add code below to `~/.profile`
 
 ```shell
 if [ -d "$HOME/bin" ] ; then
@@ -8,7 +12,7 @@ if [ -d "$HOME/bin" ] ; then
 fi
 ```
 
-2. run ```source ~/.profile```
+- run `source ~/.profile`
 
 
 
