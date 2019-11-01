@@ -2,6 +2,8 @@
 
 I use `Ubuntu` with `bash`
 
+If you want to be able to run scripts as command, like `auu`, instead of `bash auu` or `./auu`, you need to do the following
+
 - copy repo to $HOME/bin
 
 - add code below to `~/.profile`
