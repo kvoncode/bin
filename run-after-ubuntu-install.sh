@@ -5,8 +5,8 @@
 ./fresh-install-cmd.sh
 
 # personal git preferences
-git config --global user.email "winepkd@gmail.com"
-git config --global user.name "winepkd"
+git config --global user.email "kvoncode@gmail.com"
+git config --global user.name "kvoncode"
 git config --global credential.helper cache
 git config --global alias.lg "log --pretty=oneline"
 git config --global alias.st status
