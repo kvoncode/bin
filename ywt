@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gnome-terminal -- yw && gnome-terminal -- yarn test:watch
