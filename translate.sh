@@ -4,4 +4,4 @@
 
 BUFF=`xsel`
 
-google-chrome "https://translate.google.com/#en/ru/$BUFF"
+google-chrome-beta "https://translate.google.com/#en/ru/$BUFF"
