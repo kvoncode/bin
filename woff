@@ -1,3 +1,3 @@
 #!/bin/bash
 
-nmcli c down wlp2s0
+nmcli d disconnect wlp2s0
