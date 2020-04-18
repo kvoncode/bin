@@ -4,4 +4,4 @@
 
 BUFF=`xsel`
 
-google-chrome-beta "http://www.google.com/search?q=$BUFF"
+google-chrome "http://www.google.com/search?q=$BUFF"
