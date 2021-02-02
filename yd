@@ -2,5 +2,3 @@
 
 # yarn dev
 yarn develop
-
-google-chrome "http://localhost:8000/"
