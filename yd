@@ -1,3 +1,6 @@
 #!/bin/bash
 
-yarn dev
+# yarn dev
+yarn develop
+
+google-chrome "http://localhost:8000/"
